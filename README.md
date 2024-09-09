@@ -52,14 +52,17 @@
     
 </p>
 
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
------
+## <b> Check out my UX/UI designer portfolio</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<br>
+<li>
+<a href="https://www.behance.net/gonzalollanos1" target="_blank">
+<img src="https://img.shields.io/badge/behance:  0GonzaloEmanuelLlanos-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>	
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 <br>
@@ -69,20 +72,11 @@
 <div align='left'>
 
 <ul>
-
 <li>
 <a href="https://www.linkedin.com/in/gonzalo-emanuel-llanos-9a6b3b219/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0GonzaloEmanuelLlanos-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
-
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
+</li>	
 </ul>
 </div>
 
@@ -90,18 +84,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
-
-<div align='center'>
-
-## <b> </b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
 <br>
