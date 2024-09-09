@@ -33,7 +33,7 @@
 
 - **Languages**:
 <br>
-	[![My Skills](https://skillicons.dev/icons?i=js,c)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=js,c)](https://skillicons.dev);
 <br>   
     
 - **Front-End Development**:
