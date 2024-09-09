@@ -33,7 +33,7 @@
 
 - **Languages**:
 
-	[![My Skills](https://skillicons.dev/icons?i=js,c)](https://skillicons.dev);
+	[![My Skills](https://skillicons.dev/icons?i=js,c)](https://skillicons.dev)
    
     
 - **Front-End Development**:
@@ -47,9 +47,9 @@
   
 
 - **EXTRA**:
+
 	 [![My Skills](https://skillicons.dev/icons?i=ai,xd,ps,figma,netlify,git)](https://skillicons.dev)
     
-
 </p>
 
 <br>
