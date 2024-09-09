@@ -32,15 +32,18 @@
 <p align="center">
 
 - **Languages**:
+<br>
 	[![My Skills](https://skillicons.dev/icons?i=js,c)](https://skillicons.dev)
 <br>   
     
 - **Front-End Development**:
-
+<br>
 	[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,sass,tailwind,vite)](https://skillicons.dev)
 <br>  
+
 - **Back-End Development**:
-	[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postman,npm,firebase)](https://skillicons.dev)
+<br>
+ 	[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postman,npm,firebase)](https://skillicons.dev)
 <br>  
 
 - **EXTRA**:
