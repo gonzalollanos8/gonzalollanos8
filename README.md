@@ -55,12 +55,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Check out my UX/UI designer portfolio</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<li>
+<br>
+<div align='left'>
+	
 <a href="https://www.behance.net/gonzalollanos1" target="_blank">
 <img src="https://img.shields.io/badge/behance:  Gonzalo Llanos-%2300acee.svg?color=405DE6&style=for-the-badge&logo=behance&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>	
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -68,11 +68,10 @@
 <br>
 <div align='left'>
 
-<ul>
 <a href="https://www.linkedin.com/in/gonzalo-emanuel-llanos-9a6b3b219/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Gonzalo Emanuel Llanos-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>	
+	
 </div>
 
 <br>
